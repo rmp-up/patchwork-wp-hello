@@ -1,5 +1,5 @@
 {
-  "name": "patchwork/wp-remove-hello",
+  "name": "patch/wp-remove-hello",
   "description": "No more lyrics",
   "type": "patchwork",
   "extra": {
