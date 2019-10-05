@@ -1,0 +1,10 @@
+{
+  "name": "patchwork/wp-remove-hello",
+  "description": "No more lyrics",
+  "type": "patchwork",
+  "extra": {
+    "patchwork": [
+      "*.diff"
+    ]
+  }
+}
