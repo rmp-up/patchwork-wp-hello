@@ -2,6 +2,9 @@
   "name": "patch/wp-remove-hello",
   "description": "No more lyrics",
   "type": "patchwork",
+  "require": {
+    "patch/work": "*"
+  },
   "extra": {
     "patchwork": [
       "*.diff"
